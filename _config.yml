@@ -7,9 +7,10 @@ url: "https://algorizum.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: yevgnenll
+username: algorizum
 user_description: 일단 만들어봤습니다
-disqus_username: disqus_oIj0DdY0sx
+#disqus_username: disqus_oIj0DdY0sx
+disqus_username: josh
 
 # Social Media
 # Remove the item if you don't need it
