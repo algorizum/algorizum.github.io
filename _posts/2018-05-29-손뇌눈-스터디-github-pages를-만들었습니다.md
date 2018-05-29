@@ -5,6 +5,7 @@ date: 2017-09-10 12:26:40
 image: 'http://algorizum.github.io/assets/img/algorith.png'
 description: 미루면 안만들거 같아서 빨리 만듦
 category: 'life'
+comments: true
 tags:
 - algorizum 
 - algorithm
@@ -17,6 +18,3 @@ tags:
 많이 많이 commit & push 해주세요
 
 -----
-layout: default
-comments: true
----
