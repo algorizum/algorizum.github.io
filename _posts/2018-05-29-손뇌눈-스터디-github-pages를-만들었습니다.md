@@ -17,4 +17,6 @@ tags:
 많이 많이 commit & push 해주세요
 
 -----
-
+layout: default
+comments: true
+---
